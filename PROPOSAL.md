@@ -11,7 +11,8 @@
 ## Goals
 *	To keep code under the SYCL open.
 
-	_(This means no incorporating SYCL'd code in closed-source projects)_
+	_(This means no incorporating SYCL'd code in closed-source projects without
+	proper credit.)_
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
 *	To prevent monetization by others of solely SYCL'd code.

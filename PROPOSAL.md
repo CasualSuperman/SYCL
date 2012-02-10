@@ -14,5 +14,4 @@
 	_(This means no incorporating SYCL'd code in closed-source projects)_
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
-*	To prevent people who didn't write the code from profiting from SYCL'd
-	code.
+*	To prevent monetization by others of solely SYCL'd code.

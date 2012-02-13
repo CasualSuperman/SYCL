@@ -16,3 +16,4 @@
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
 *	To prevent monetization by others of solely SYCL'd code.
+*	Software using code released under the SYCL can only be sold with the author's permission.

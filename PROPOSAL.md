@@ -13,6 +13,9 @@
 
 	_(This means no incorporating SYCL'd code in closed-source projects without
 	proper credit.)_
+
+	_(This also means that code released under the SYCL which has been modified
+	must also be made available.)_
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
 *	To prevent monetization by others of solely SYCL'd code.

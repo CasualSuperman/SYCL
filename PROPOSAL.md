@@ -21,3 +21,5 @@
  	licenses. _(Non-infectious)_
 *	Software using code released under the SYCL can only be sold with the
 	copyright holder's permission.
+*	Automatic forfeiting of rights granted by the License if patent litigation
+	is raised.

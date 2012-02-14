@@ -16,7 +16,7 @@
 	proper credit.)_
 
 	_(This also means that code released under the SYCL which has been modified
-	*must* also be made available.)_
+	*must* be made available. (Unlike the (L)GPL.))_ 
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
 *	Software using code released under the SYCL can only be sold with the

@@ -4,9 +4,10 @@
 *	To write a license that ensures proper credit to the author of code.
 *	To allow authors to transfer ownership rights to other parties.
 	
-	_Reasoning: Usable by companies that require employees to forfeit rights
- 	to code._
-*	To allow authors to forfeit ownership rights into the Public Domain.
+	_Reasoning: Making the license usable by companies that require employees
+	to forfeit rights to code._
+*	To allow authors to forfeit ownership rights into the Public Domain in the
+	future, if they wish.
 
 ## Goals
 *	To keep code under the SYCL open.
@@ -15,8 +16,8 @@
 	proper credit.)_
 
 	_(This also means that code released under the SYCL which has been modified
-	must also be made available.)_
+	*must* also be made available.)_
 *	To allow code under the SYCL to be used with code under other Free
  	licenses.
-*	To prevent monetization by others of solely SYCL'd code.
-*	Software using code released under the SYCL can only be sold with the author's permission.
+*	Software using code released under the SYCL can only be sold with the
+	copyright holder's permission.

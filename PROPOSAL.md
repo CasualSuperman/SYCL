@@ -23,3 +23,8 @@
 	copyright holder's permission.
 *	Automatic forfeiting of rights granted by the License if patent litigation
 	is raised.
+*	Weak CopyLeft.
+		"A 'Weak' copyleft license says that all changes to this particular
+		code must be released, but other software can be built using this as a
+		library, and that can software can be under a different license."
+		- http://e1ven.com/2012/03/21/comparison-of-open-source-licenses/

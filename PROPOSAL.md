@@ -28,3 +28,9 @@
 		code must be released, but other software can be built using this as a
 		library, and that can software can be under a different license."
 		- http://e1ven.com/2012/03/21/comparison-of-open-source-licenses/
+
+## Miscellaneous
+*	Avoid having to include the text of the license in the projects that use it.
+*	Since this means that an online version must be available, all online
+	copies must have a method of showing and linking to previously hosted
+	versions of the license, or never update them.

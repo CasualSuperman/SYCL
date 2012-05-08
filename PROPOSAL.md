@@ -34,3 +34,4 @@
 *	Since this means that an online version must be available, all online
 	copies must have a method of showing and linking to previously hosted
 	versions of the license, or never update them.
+*	Reciprocal, want code back.

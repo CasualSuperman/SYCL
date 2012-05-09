@@ -35,4 +35,3 @@
 	copies must have a method of showing and linking to previously hosted
 	versions of the license, or never update them.
 *	Reciprocal, want code back.
-*	[DFSG](http://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines) compliance.

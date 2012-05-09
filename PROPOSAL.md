@@ -21,6 +21,10 @@
  	licenses. _(Non-infectious)_
 *	Software using code released under the SYCL can only be sold with the
 	copyright holder's permission.
+
+	_(This is where the <abbr title="Academic Free License">AFL</abbr> falls
+	short.)_
+
 *	Automatic forfeiting of rights granted by the License if patent litigation
 	is raised. (Patent Retaliation)
 *	Weak CopyLeft.
